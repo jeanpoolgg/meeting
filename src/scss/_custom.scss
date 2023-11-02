@@ -1,0 +1,13 @@
+// Reescribir variables de bootstrap
+$blue: #4CB5F5;
+$granite: #B7B8B6;
+$pine: #34675C;
+$fields: #B3C100;
+
+// Asignar paleta de colores a BS
+$primary: $blue;
+$secondary: $fields;
+$dark: $pine;
+
+// Importar Boostrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
