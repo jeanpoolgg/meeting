@@ -1,1 +1,7 @@
 @use '../custom' as *;
+
+.header {
+    &_logo{
+        width: 10rem;
+    }
+}
